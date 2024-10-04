@@ -4,3 +4,10 @@
 3. Check the code and ensure that external files style.css and script.js linked with index.html
 4. Select index.html and go to the live server
 5. Now you can see the result
+
+- Create Task
+- Mark as Read
+- Delete Task
+- Clear All
+- Responsive Design
+- Simple UI
